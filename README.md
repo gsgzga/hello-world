@@ -1,11 +1,8 @@
 # hello-world
-# H1 
-Hi
+# Hi
 
-## H2 
-This is a test
+## This is a test
 
-### H3 
-So we can do our **best**
-Lest this is a *jest*
-*For us to digest*
+### So we can do our **best**
+### Lest this is a *jest*
+### *For us to digest*
